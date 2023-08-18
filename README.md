@@ -1,4 +1,4 @@
-# coffeeshop-project
+# Página Web - Coffee Shop <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5390/5390613.png" />
 
 
 O projeto consiste em uma página responsiva de um coffee shop.
@@ -6,10 +6,7 @@ O projeto consiste em uma página responsiva de um coffee shop.
 
 ## Tecnologias usadas
 
-
-- HTML5
-- CSS3
-- JavaScript
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
 ## Preview
